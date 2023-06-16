@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dunlokdev/dunlokdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+as+art%2C+enjoy+it+~)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+My name is Dunlok and I'm frontend developer. I'm from Vietnam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Dunlok = {
+  name: 'Duong My Loc',
+  age: 21,
+  school: 'Dalat University',
+  work: 'Doitsolutions',
+  hobbies: ["programming", "music", "travel"],
+  programmingLanguages: ["javascript", "c#"]
+}
+```
