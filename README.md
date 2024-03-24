@@ -9,7 +9,7 @@ const Dunlok = {
   name: 'Duong My Loc',
   age: 21,
   school: 'Dalat University',
-  work: '-',
+  work: 'doitsolutions.vn',
   hobbies: ["programming", "music", "travel"],
   programmingLanguages: ["javascript", "c#"]
 }
