@@ -14,6 +14,9 @@ const Dunlok = {
   work: 'doitsolutions.vn',
   hobbies: ["programming", "music", "travel"],
   programmingLanguages: ["javascript", "c#", "golang"],
-  framwork: ["VueJS, "ReactJS", "NestJS", "ExpressJS, "NodeJS", "ASP Core", "Gin"],
+  frameworkFrontend: ["VueJS, "ReactJS"],
+  frameworkBackend: ["NestJS", "ExpressJS, "NodeJS", "ASP Core", "Gin"],
+  database: ["MongoDB", "MSSQL", "MySQL"],
+  english: 600+ TOEIC,
 }
 ```
