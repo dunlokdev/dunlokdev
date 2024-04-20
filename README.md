@@ -12,7 +12,7 @@ const Dunlok = {
   age: 22,
   school: 'Dalat University',
   work: 'doitsolutions.vn',
-  hobbies: ["programming", "music", "travel"],
+  hobbies: ["programming", "music", "travel", ""],
   programmingLanguages: ["javascript", "c#", "golang"],
   frameworkFrontend: ["VueJS, "ReactJS"],
   frameworkBackend: ["NestJS", "ExpressJS, "NodeJS", "ASP Core", "Gin"],
