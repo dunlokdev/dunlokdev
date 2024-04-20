@@ -8,10 +8,12 @@ My name is Dunlok and I'm frontend developer. I'm from Vietnam.
 ```js
 const Dunlok = {
   name: 'Duong My Loc',
-  age: 21,
+  age: 22,
+  girlFriend: <a href="https://www.facebook.com/lephuongngaa">Phuong Nga</a>
   school: 'Dalat University',
   work: 'doitsolutions.vn',
   hobbies: ["programming", "music", "travel"],
-  programmingLanguages: ["javascript", "c#"]
+  programmingLanguages: ["javascript", "c#", "golang"],
+  framwork: ["VueJS, "ReactJS", "NestJS", "ExpressJS, "NodeJS", "ASP Core", "Gin"],
 }
 ```
